@@ -943,7 +943,7 @@ Some broader capabilities in the original product vision—particularly fully au
 Contributions are welcome.
 
 1. Fork the repository
-git clone https://github.com/PRANAV-AADITYA-95/ArchSentinel.git
+git clone https://github.com/Prakhar-Aditya/ArchSentinel-AI-Code-Review.git
 2. Create a feature branch
 git checkout -b feature/your-feature-name
 3. Make your changes
