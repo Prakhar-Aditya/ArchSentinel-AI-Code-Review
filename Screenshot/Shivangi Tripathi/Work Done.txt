@@ -1,0 +1,1 @@
+I developed the Logic & Edge-Case Agent to identify logical bugs, input-validation issues, boundary conditions, and unhandled errors. I also worked on the Auto-Remediation system to generate safe .diff patches and validate them before application. Additionally, I prepared the architecture, workflow, and final documentation for the Logic Agent and remediation module.
