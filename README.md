@@ -572,8 +572,6 @@ Check your installations:
 node --version
 npm --version
 git --version
-📥 Clone the Repository
-git clone https://github.com/PRANAV-AADITYA-95/ArchSentinel.git
 
 Move into the project:
 
