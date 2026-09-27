@@ -1061,10 +1061,9 @@ Multi-Agent AI + Software Engineering + Security Analysis + Performance Analysis
 
 into a single developer-focused review platform.
 
-🔗 Repository
 
-GitHub:
-https://github.com/PRANAV-AADITYA-95/ArchSentinel
+
+
 
 Built for intelligent software engineering.
 
