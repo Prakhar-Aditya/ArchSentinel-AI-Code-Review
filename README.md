@@ -977,24 +977,6 @@ why it changed
 how it was tested
 any limitations
 screenshots where relevant
-👥 Team & Contributors
-Project
-
-ArchSentinel
-
-Repository Owner
-
-PRANAV-AADITYA-95
-
-GitHub:
-
-ArchSentinel Repository
-
-Contributors
-
-Contributors will be added as the project team is finalized.
-
-Want to contribute? Open an issue, submit a pull request, or contact the project maintainers.
 
 📜 License
 
